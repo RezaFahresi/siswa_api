@@ -18,6 +18,12 @@ ini untuk tampilan Put Siswa
 ini tampilan untuk Post Tugas Tambahan
 ![Tugas Tambahan post siswa ](https://github.com/user-attachments/assets/6e9918e3-754c-455a-8e9e-50d7bc020556)
 
+ini untuk tampilan dari database siswa_db
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/68422646-407f-4fd7-8d51-b960e3db0da7">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/1414718d-c331-4333-8481-f52e89777a5c">
+
+
+
 
 
 
